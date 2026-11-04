@@ -1,0 +1,3 @@
+# Monetag ads.txt
+# Remplacer la ligne ci-dessous par le contenu officiel fourni dans votre tableau de bord Monetag
+monetag.com, 12187243, DIRECT, 123456789
